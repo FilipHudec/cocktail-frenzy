@@ -1,8 +1,12 @@
 .container {
+
 }
 
 .cocktail__container {
-
+  background-color: #333;
+  border-radius: 5px;
+  padding: 2em;
+  margin-top: 2em;
 }
 
 .main__heading {
@@ -20,6 +24,11 @@
   font-size: 1.2rem;
   margin: 1rem 0;
   width: 15em;
+}
+
+.details__container {
+
+
 }
 
 .cocktail__img {
