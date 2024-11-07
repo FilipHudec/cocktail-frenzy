@@ -1,0 +1,34 @@
+.container {
+}
+
+.cocktail__container {
+
+}
+
+.main__heading {
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.cocktail__name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.cocktail__instructions {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+  width: 15em;
+}
+
+.cocktail__img {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.cocktail__details {
+  display: flex;
+  gap: 2em;
+}
