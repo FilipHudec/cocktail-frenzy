@@ -12,7 +12,7 @@ const Input: React.FC<InputProps> = ({ value, onChange }) => {
         <input 
             className={InputCss.input}
             type="text" 
-            placeholder="cocktail" 
+            placeholder="Input cocktail name" 
             value={value} 
             onChange={(e) => {
                 console.log("Input changed:", e.target.value);
